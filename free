@@ -1,0 +1,1 @@
+srun -p free --pty bash -i
